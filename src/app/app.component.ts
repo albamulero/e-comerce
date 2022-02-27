@@ -8,3 +8,8 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'email2';
 }
+
+function Modificar_texto() {
+  document.getElementById("hex_1").innerHTML = "Prueba"
+  alert("Funcion de modificar texto")
+}
