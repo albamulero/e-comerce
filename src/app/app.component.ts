@@ -7,9 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'email2';
+
+leerMas() {
+  alert("LEER MAS")
+	
 }
 
-function Modificar_texto() {
-  document.getElementById("hex_1").innerHTML = "Prueba"
-  alert("Funcion de modificar texto")
 }

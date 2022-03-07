@@ -1119,9 +1119,59 @@
 
     /* DIAPOSITOVA 7 - BLOG */
 
-    #ramsomware {
-        width: 20%;
+    .pagina_principal_7{
+        background-color: #233DF9;
+        padding-bottom: 40px;
     }
+
+    #titulo_7{
+        color: white;
+        font-family: 'Spartan', sans-serif;
+        text-align: center;
+        padding-top: 40px;
+        padding-bottom: 30px;
+        
+    }
+    .fondo{
+        background-color: #EBEAED;
+        border-radius: 25px;
+        padding-bottom: 15px;
+    }
+    #img-blog {
+        width: 100%;
+        border-radius: 25px;
+    } 
+
+    h3{
+        padding: 10px;
+        font-family: 'Spartan', sans-serif;
+    }
+
+    #info-blog {
+        padding: 0px 10px;
+        font-size: 13px;
+        margin-bottom: none;
+        font-family: 'Titillium Web', sans-serif;
+    }
+
+    #leer-mas {
+        padding: 0px 5px 5px 10px;
+        font-size: 13px;
+        color: rgb(0, 200, 83);
+        text-decoration: none;
+        font-size: 10px;
+    }
+    
+    .desplegar {
+        display: block;
+        margin: 30px auto;
+        padding: 9px 24px 7px;
+        font-weight: 900;
+        color: #C00;
+        outline-color: #C00;
+        border: 1px solid #C00;
+        background: #FFF;
+    } 
 
     /*  DIAPOSITIVA 8 - CONTACTANOS */    
 
